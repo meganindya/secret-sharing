@@ -1,4 +1,4 @@
-# Secret Sharing
+# Thien-Lin's scheme
 A MATLAB project based on a paper in Secret Sharing using Lin's approach.
 
 ### Objective
