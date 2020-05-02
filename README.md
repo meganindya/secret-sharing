@@ -4,6 +4,8 @@ Implementation of some Secret Sharing schemes in MATLAB.
 
 ## **Thien-Lin**
 
-![Thien-Lin demo](thien-lin/demo.png)
+![Thien-Lin Demo](thien-lin/demo.png)
 
 ## **Visual Cryptography**
+
+![Visual Cryptography Demo](visual-cryptography/demo.png)
